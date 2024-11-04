@@ -1,5 +1,6 @@
 {
     "name": "marcosrenan/qrcode-php",
+    "version": "1.0.0",
     "description": "QR-Code gerado com PHP puro",
     "autoload": {
         "psr-4": {
